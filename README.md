@@ -1,7 +1,4 @@
 
-![Logo](https://blog.holbertonschool.com/wp-content/uploads/2021/06/Fichier-13.png)
-
-
 # _printf()
 
 This project recreates a printf function will print out formats of,
@@ -86,8 +83,3 @@ Output -> Length:[39, 39]
 _printf("Negative:[%d]\n", -762534);
 Output -> : Negative:[-762534]
 ```
-
-## Authors
-
-- [Gerardo Marin](https://github.com/GerardoMP18)
-- [Juan Salinas](https://github.com/JSM788)
